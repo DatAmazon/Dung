@@ -193,6 +193,7 @@
             this.Name = "Trangchu";
             this.Text = "FormTrangChu";
             this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.Trangchu_FormClosed);
+            this.Load += new System.EventHandler(this.Trangchu_Load);
             this.splitContainer1.Panel1.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.splitContainer1)).EndInit();
             this.splitContainer1.ResumeLayout(false);

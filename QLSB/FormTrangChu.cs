@@ -102,5 +102,10 @@ namespace QuanLySanBong
             f.Show();
             this.Hide();
         }
+
+        private void Trangchu_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
